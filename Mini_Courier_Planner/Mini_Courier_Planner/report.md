@@ -2,8 +2,8 @@
 
 **Course:** Design & Analysis of Algorithms (ETCCDA302)  
 **Project:** Mini-Courier Planner  
-**Student:** [Enter your name]  
-**Roll Number:** [Enter your roll number]  
+**Student:** [ADRIANA AHARYAN]  
+**Roll Number:** [2501730153]  
 **Programme:** B.Tech CSE / Specialization  
 **University:** K.R. Mangalam University  
 
